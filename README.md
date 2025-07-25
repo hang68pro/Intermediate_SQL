@@ -3,6 +3,7 @@
  
 This is an intermediate-level SQL project where I worked with the New York City Airbnb Open Data from Kaggle. Using SQLite in Google Colab, I am writing complex SQL queries to explore and analyze real-world housing and pricing data.
 
+
 🔍 Key Highlights:
 
 Connected and queried data from a real dataset using SQLite.
@@ -13,7 +14,8 @@ Analyzed listings by price, location, and host performance to uncover trends in 
 
 🛠️ Skills Used: SQL, SQLite, Google Colab, Data Analysis, Pandas
 
-#Key Insights from NYC Airbnb Analysis:
+
+🔑 Key Insights from NYC Airbnb Analysis:
 
 Most Expensive Listings: Identified the top 5 most expensive Airbnb listings across New York City, especially among entire homes/apartments, revealing luxury rental trends.
 
