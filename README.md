@@ -1,5 +1,6 @@
 # Intermediate_SQL
  Intermediate SQL Project: NYC Airbnb Data Analysis
+ 
 This is an intermediate-level SQL project where I worked with the New York City Airbnb Open Data from Kaggle. Using SQLite in Google Colab, I am writing complex SQL queries to explore and analyze real-world housing and pricing data.
 
 🔍 Key Highlights:
